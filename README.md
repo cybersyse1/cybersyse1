@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Mohamed%20Amine%20Bengadi&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Administration%20%7C%20CCNB%20Moncton&descAlignY=58&descAlign=50&fontColor=00d4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Amine%20Bengadi&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Administration%20%7C%20CCNB%20Moncton&descAlignY=58&descAlign=50&fontColor=00d4ff" />
 
 </div>
 

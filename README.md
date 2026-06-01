@@ -1,94 +1,113 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Amine%20Bengadi&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Web%20Developer&descAlignY=55&descAlign=50&fontColor=fff" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Mohamed%20Amine%20Bengadi&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Administration%20%7C%20CCNB%20Moncton&descAlignY=58&descAlign=50&fontColor=00d4ff" />
+
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amine-bengadi-23817a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://monctoncab.click"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Moncton%2C%20NB%20Canada-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=cybersyse1&label=Profile+views&color=0e75b6&style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/mohamed-amine-bengadi-23817a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://monctoncab.click"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Moncton%2C%20NB%20Canada-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=cybersyse1&label=Profile+views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
 ---
 
 ## About Me
 
-I am a passionate **cybersecurity researcher** and **web developer** based in Moncton, NB, Canada. Currently pursuing my studies at **CCNB Moncton**, I am dedicated to building secure digital solutions and exploring the ever-evolving landscape of cybersecurity.
+I am a **Cybersecurity & Network Administration** graduate from **CCNB Moncton**, passionate about offensive and defensive security, virtualization, and data protection. I am constantly exploring new attack vectors, defense strategies, and security tools to deepen my expertise in the cybersecurity field.
 
-- Currently working on: **Firewall Simulator**, **Automated USB Extraction Scripts**
-- Deepening expertise in: **Network Security, Vulnerability Analysis, Full-Stack Development**
-- Latest project: **[Cab Greater Moncton](https://monctoncab.click)** — A professional bilingual taxi service platform
-- Ask me about: **Cybersecurity, Web Development, Linux, Bash Scripting**
-- Based in: **Moncton, NB, Canada**
+- **Specialization:** Offensive & Defensive Cybersecurity, Network Administration
+- **Interests:** Penetration Testing, Intrusion Detection, Virtualization, Data Protection
+- **Currently learning:** Ethical Hacking, Malware Analysis, SOC Operations
+- **Location:** Moncton, NB, Canada
 
 ---
 
 ## Technical Skills
 
-### Cybersecurity and Systems
+### Cybersecurity & Offensive/Defensive
+
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-### Web Development
+### Network & Infrastructure
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+### Web & Scripting
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### [Cab Greater Moncton](https://monctoncab.click/) — Taxi Grand Moncton
-**Full-Stack Web Development** | Live Production Site
+### Simulateur de Pare-feu
+**Cybersecurity Tool** | JavaScript | AbuseIPDB API | IPInfo.io API
 
-A complete professional platform for a taxi service in Greater Moncton, NB.
+A firewall simulation application that filters network packets based on IP/port rules, integrates threat intelligence APIs for malicious IP detection, and provides real-time network traffic logging.
 
-| Feature | Description |
-|---|---|
-| Fare Simulator | Online calculator based on official City of Moncton rates |
-| Booking System | Integrated reservation form with passenger details |
-| Bilingual | Full English/French interface |
-| Responsive | Mobile-first design for all devices |
-| Local Attractions | Guide to Moncton area tourist spots |
-| Click-to-Call | Direct phone integration (506) 247-1874 |
-
-**Tech Stack:** React, JavaScript, CSS3, Responsive Design
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybersyse1/Simulateur-de-Pare-feu)
 
 ---
 
-### [Simulateur-de-Pare-feu](https://github.com/cybersyse1/Simulateur-de-Pare-feu)
-**Cybersecurity Lab** | Network Security
+### Cab Greater Moncton
+**Web Development** | Production Site | Bilingual EN/FR
 
-Practical laboratory simulating firewall rules and behavior to understand network filtering mechanisms.
+Professional taxi service platform for Greater Moncton with fare calculator, booking system, and mobile-first design.
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monctoncab.click)
 
 ---
 
-### [Extraction-Automatique_cle-usb](https://github.com/cybersyse1/Extraction-Automatique_cle-usb)
-**System Scripting** | Automation
+### Extraction Automatique Cle USB
+**Bash Scripting** | Automation | Linux
 
-Automated script for secure data extraction from USB devices.
+Automated USB key data extraction script for Linux systems.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybersyse1/Extraction-Automatique_cle-usb)
 
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cybersyse1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersyse1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cybersyse1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersyse1&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersyse1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersyse1&theme=tokyonight" />
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" />
+
 </div>

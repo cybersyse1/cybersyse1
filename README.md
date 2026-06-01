@@ -22,7 +22,7 @@ I am a **Cybersecurity & Network Administration** graduate from **CCNB Moncton**
 - **Specialization:** Offensive & Defensive Cybersecurity, Network Administration
 - **Interests:** Penetration Testing, Intrusion Detection, Virtualization, Data Protection
 - **Currently learning:** Ethical Hacking, Malware Analysis, SOC Operations
-- **Location:** Moncton, NB, Canada
+- **Location:**  Canada
 
 ---
 

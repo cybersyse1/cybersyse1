@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/mohamed-amine-bengadi-23817a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://monctoncab.click"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Moncton%2C%20NB%20Canada-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/anada-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=cybersyse1&label=Profile+views&color=0e75b6&style=for-the-badge" />
 
 </div>

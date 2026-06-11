@@ -109,3 +109,31 @@ Automated USB key data extraction script for Linux systems.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" />
 
 </div>
+
+
+---
+
+## 🏆 Competition Experience
+
+### CCNB Dieppe Cybersecurity Competition 2026
+
+> *"Hands-on cybersecurity competition organized at CCNB Dieppe — applying real-world offensive and defensive security skills."*
+
+As a member of **Votex_Assurance (Group 8)**, I held the role of **Security Auditor, Red Team Tester & Compliance Officer**.
+
+| Competition | Role | Result |
+|---|---|---|
+| 🎣 Phishing Awareness Campaign | Red Team / Social Engineering | 🥇 **1st Place** |
+| 🛡️ Votex_Assurance Security Audit | Penetration Testing / Compliance | 🥉 **3rd Place (Bronze)** |
+
+**Phishing Campaign Highlights:**
+- 788 phishing links clicked by students
+- 729 credentials submitted (23.1% success rate)
+- Demonstrated the critical impact of social engineering attacks
+
+**Votex_Assurance Highlights:**
+- Infrastructure penetration testing
+- Security validation and vulnerability assessment
+- Compliance evaluation against industry best practices
+
+[![View Repository](https://img.shields.io/badge/View_Full_Report-CCNB_Competition-red?style=for-the-badge&logo=github)](https://github.com/cybersyse1/CCNB-Dieppe-Cybersecurity-Competition)

@@ -1,33 +1,30 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Amine%20Bengadi&fontSize=48&fontAlignY=38&desc=Cybersecurity%20Administration&descAlignY=58&descAlign=50&fontColor=00d4ff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Amine%20Bengadi&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Administration%20%7C%20CCNB%20Moncton&descAlignY=58&descAlign=50&fontColor=00d4ff" />
 </div>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/mohamed-amine-bengadi-23817a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://monctoncab.click"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-
+<img src="https://img.shields.io/badge/Location-Moncton%2C_NB_Canada-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=cybersyse1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cybersyse1" />
 </div>
 
 ---
 
 ## About Me
 
-I am a **Cybersecurity & Network Administration** graduate from **CCNB Moncton**, passionate about offensive and defensive security, virtualization, and data protection. I am constantly exploring new attack vectors, defense strategies, and security tools to deepen my expertise in the cybersecurity field.
+I am a **Cybersecurity & Network Administration** graduate from **CCNB Moncton**, passionate about offensive and defensive security, virtualization, and data protection. I constantly explore new attack vectors, defense strategies, and security tools to deepen my expertise in cybersecurity.
 
-- **Specialization:** Offensive & Defensive Cybersecurity, Network Administration
-- **Interests:** Penetration Testing, Intrusion Detection, Virtualization, Data Protection
-- **Currently learning:** Ethical Hacking, Malware Analysis, SOC Operations
-- **Location:**  Canada
+- **Specialization:** Offensive & Defensive Cybersecurity, Network Administration, Red Team Operations
+- **Interests:** Penetration Testing, Intrusion Detection, Virtualization, Data Protection, Threat Intelligence
+- **Currently learning:** Ethical Hacking, Malware Analysis, SOC Operations, MITRE ATT&CK Framework
+- **Location:** Moncton, NB, Canada
 
 ---
 
 ## Technical Skills
 
 ### Cybersecurity & Offensive/Defensive
-
 <p>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -35,105 +32,95 @@ I am a **Cybersecurity & Network Administration** graduate from **CCNB Moncton**
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-E34F26?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
 ### Network & Infrastructure
-
 <p>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh_SIEM-0052CC?style=for-the-badge&logo=wazuh&logoColor=white" />
 </p>
 
-### Web & Scripting
-
+### Scripting & Web
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Simulateur de Pare-feu
-**Cybersecurity Tool** | JavaScript | AbuseIPDB API | IPInfo.io API
+### 🛡️ VortexAssurance — Cybersecurity Audit, Red Team & Governance
+> **CCNB Moncton | VortexOps Inc. | SECS1026 | 🥉 3rd Place — Bronze Trophy**
 
-A firewall simulation application that filters network packets based on IP/port rules, integrates threat intelligence APIs for malicious IP detection, and provides real-time network traffic logging.
+As **Project Manager & Documentation Compliance Lead** for Group 8, I led a full-scale cybersecurity audit and Red Team campaign against a simulated enterprise infrastructure.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybersyse1/Simulateur-de-Pare-feu)
+| Scope | Achievement |
+|---|---|
+| 4 infrastructure groups audited (IAM, CyberRange, Core, CTF) | 20-domain compliance matrix delivered |
+| 10 MITRE ATT&CK scenarios executed | 80% detection rate in Wazuh SIEM |
+| 106,153 alerts generated (2,769 critical) | Root access, NTLM dump, data exfiltration achieved |
 
----
-
-### Cab Greater Moncton
-**Web Development** | Production Site | Bilingual EN/FR
-
-Professional taxi service platform for Greater Moncton with fare calculator, booking system, and mobile-first design.
-
-[![Visit Site](https://img.shields.io/badge/Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monctoncab.click)
+👉 [View Repository](https://github.com/cybersyse1/VortexAssurance-G8)
 
 ---
 
-### Extraction Automatique Cle USB
-**Bash Scripting** | Automation | Linux
+### 🎣 Phishing Awareness Campaign — CCNB Dieppe Competition
+> **CCNB Dieppe | Red Team / Social Engineering | 🥇 1st Place**
 
-Automated USB key data extraction script for Linux systems.
+Designed and deployed a phishing simulation targeting students to demonstrate real-world social engineering impact.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybersyse1/Extraction-Automatique_cle-usb)
+| Metric | Result |
+|---|---|
+| Links clicked | **788** |
+| Credentials submitted | **729 (23.1%)** |
+| Final ranking | **🥇 1st Place** |
+
+👉 [View Repository](https://github.com/cybersyse1/CCNB-Dieppe-Cybersecurity-Competition)
+
+---
+
+### 🔥 Firewall Simulator — Network Security Tool
+> **Packet filtering, threat intelligence, ACL rules | AbuseIPDB + IPInfo.io**
+
+A browser-based firewall simulator with real-time IP threat analysis, rule management, and traffic logging.
+
+👉 [View Repository](https://github.com/cybersyse1/Simulateur-de-Pare-feu)
+
+---
+
+### 🚕 Cab Greater Moncton — Web Platform
+> **Full-stack taxi booking platform | [monctoncab.click](https://monctoncab.click)**
+
+A professional taxi booking website for the Greater Moncton area with booking forms, service pages, and contact integration.
+
+👉 [Visit Site](https://monctoncab.click)
 
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cybersyse1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersyse1&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=cybersyse1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersyse1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersyse1&theme=tokyonight" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersyse1&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" />
-
 </div>
-
-
----
-
-## 🏆 Competition Experience
-
-### CCNB Dieppe Cybersecurity Competition 2026
-
-> *"Hands-on cybersecurity competition organized at CCNB Dieppe — applying real-world offensive and defensive security skills."*
-
-As a member of **Votex_Assurance (Group 8)**, I held the role of **Security Auditor, Red Team Tester & Compliance Officer**.
-
-| Competition | Role | Result |
-|---|---|---|
-| 🎣 Phishing Awareness Campaign | Red Team / Social Engineering | 🥇 **1st Place** |
-| 🛡️ Votex_Assurance Security Audit | Penetration Testing / Compliance | 🥉 **3rd Place (Bronze)** |
-
-**Phishing Campaign Highlights:**
-- 788 phishing links clicked by students
-- 729 credentials submitted (23.1% success rate)
-- Demonstrated the critical impact of social engineering attacks
-
-**Votex_Assurance Highlights:**
-- Infrastructure penetration testing
-- Security validation and vulnerability assessment
-- Compliance evaluation against industry best practices
-
-[![View Repository](https://img.shields.io/badge/View_Full_Report-CCNB_Competition-red?style=for-the-badge&logo=github)](https://github.com/cybersyse1/CCNB-Dieppe-Cybersecurity-Competition)

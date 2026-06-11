@@ -124,3 +124,20 @@ A professional taxi booking website for the Greater Moncton area with booking fo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" />
 </div>
+
+
+---
+
+## 🖥️ Stage en Cybersécurité — Cyber Range (CCNB Moncton)
+
+> **SECS1053 - Stage en Cybersécurité** | Collège Communautaire du Nouveau-Brunswick (CCNB)
+
+Dans le cadre de mon stage, j'ai participé à la conception et au déploiement d'un **Cyber Range complet** sur **Proxmox VE**, avec une segmentation réseau stricte via **OPNsense**. Mon rôle principal était **Red Team** : j'ai exécuté des scénarios d'attaque réels sur des VMs vulnérables (DVWA, Metasploitable 2, WebGoat).
+
+| Cible | Attaques Réalisées | Outils |
+|---|---|---|
+| DVWA | SQLi, XSS, Command Injection, Brute Force | Nmap, Hydra, SQLMap |
+| Metasploitable 2 | FTP Backdoor, Samba RCE (CVE-2007-2447), PostgreSQL | Metasploit, Hydra |
+| WebGoat | SQL Injection, Insecure Deserialization | Nmap, BurpSuite |
+
+🔗 [Voir le repository complet →](https://github.com/cybersyse1/Cyber-Range-Stage)
